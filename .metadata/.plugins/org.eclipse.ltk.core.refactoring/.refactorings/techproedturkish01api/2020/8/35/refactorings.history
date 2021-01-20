@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;techproedturkish01.techproedturkish01api.TestBase.createRequestBody()&apos; to &apos;createRequestBodyByJsonObjectClass&apos;&#x0A;- Original project: &apos;techproedturkish01api&apos;&#x0A;- Original element: &apos;techproedturkish01.techproedturkish01api.TestBase.createRequestBody()&apos;&#x0A;- Renamed element: &apos;techproedturkish01.techproedturkish01api.TestBase.createRequestBodyByJsonObjectClass()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;createRequestBody&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;techproedturkish01.techproedturkish01api{TestBase.java[TestBase~createRequestBody" name="createRequestBodyByJsonObjectClass" references="true" stamp="1598200353135" version="1.0"/>
+</session>

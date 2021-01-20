@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;day36collections.LinkedHashSet&apos; to &apos;LinkedHashSet01&apos;&#x0A;- Original project: &apos;techproedsummer2020turkish&apos;&#x0A;- Original element: &apos;day36collections.LinkedHashSet&apos;&#x0A;- Renamed element: &apos;day36collections.LinkedHashSet01&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LinkedHashSet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;day36collections{LinkedHashSet.java[LinkedHashSet" matchStrategy="1" name="LinkedHashSet01" qualified="false" references="true" similarDeclarations="false" stamp="1591817528503" textual="false" version="1.0"/>
+</session>

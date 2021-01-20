@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;genelTekrar.InterviewSorusu.java&apos; to &apos;FrekansBulma.java&apos;&#x0A;- Original project: &apos;javapracticturkish&apos;&#x0A;- Original element: &apos;genelTekrar.InterviewSorusu.java&apos;&#x0A;- Renamed element: &apos;genelTekrar.FrekansBulma.java&apos;" description="Rename compilation unit &apos;InterviewSorusu.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;genelTekrar{InterviewSorusu.java" name="FrekansBulma.java" references="false" stamp="1598276919821" version="1.0"/>
+</session>

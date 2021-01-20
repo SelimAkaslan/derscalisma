@@ -1,0 +1,9 @@
+package javapracticeokul_hamza;
+
+public class Ogretmenler {
+
+	public Ogretmenler() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,19 @@
+package day11stringmethods;
+
+public class StringMethods02 {
+
+	public static void main(String[] args) {
+		// substring() methodu: Bir stringin belli bir bölümünü kesip almak için kullanılır.
+		
+		
+		String str1 = "Java calisana kolaydır";
+		
+		// 1. YOL
+		System.out.println(str1.substring(5)); // çalışana kolaydır. 5 indexi gösterir.
+		System.out.println(str1.substring(8)); // isana kolaydır. index 8 dahildir(incusive)
+		System.out.println(str1.substring(22));
+		
+		
+	}
+
+}
